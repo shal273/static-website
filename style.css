@@ -11,7 +11,7 @@ body {
 .container-web {
     width: 90vw;
     height: 90vh;
-    background: linear-gradient(rgb(95, 42, 151), rgb(172, 56, 114));
+    background: linear-gradient(rgb(151, 120, 42), rgb(189, 37, 113));
     border-radius: 20px;
     padding: 40px;
     color: white;
