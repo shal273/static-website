@@ -25,23 +25,19 @@ body {
 
 a {
     color: rgb(3, 3, 3);
-    text-decoration: none; /* Optional: removes underline from links */
     transition: transform 0.3s ease, color 0.3s ease; /* Smooth transition for hover effect */
 }
 
 a:hover {
-    color: rgb(255, 255, 255); /* Change text color on hover */
-    transform: scale(1.1); /* Slightly increase the size of the link */
+    color: rgb(65, 5, 94); 
+    transform: scale(1.1);
 }
-
 h2 {
     text-decoration: underline;
 }
-
 ul {
     padding: 0;
 }
-
 li {
     list-style-type: none;
     margin: 10px 0; /* Optional: adds space between list items */
