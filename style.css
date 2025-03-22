@@ -1,0 +1,20 @@
+body{
+    background:rgb(53, 6, 45);
+}
+.container-web {
+    width: 90%;
+    height: 70%;
+    background: linear-gradient(rgb(95, 42, 151), rgb(172, 56, 114));
+    margin: 10px auto;
+    border-radius: 20px;
+    padding: 40px;
+    color: white;
+}
+a{
+    color: rgb(3, 3, 3);
+}
+h2 {
+    text-decoration: underline;}
+li {
+    list-style-type: none;
+}
