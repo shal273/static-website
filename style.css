@@ -25,11 +25,13 @@ body {
 
 a {
     color: rgb(3, 3, 3);
-    transition: transform 0.3s ease, color 0.3s ease; /* Smooth transition for hover effect */
+
+    transition: transform 0.3s ease, color 0.3s ease; 
+    text-decoration: none;
 }
 
 a:hover {
-    color: rgb(179, 156, 208); 
+    color: rgb(138, 104, 208); 
     transform: scale(1.1);
 }
 h2 {
